@@ -1,4 +1,5 @@
 # Farmacias-PMG
+https://cmiranda14.github.io/Farmacias-PMG/
 
 El programa diseñado para la empresa “Farmacias PMG” consta en que le usuario coloque su altura  en metros y su peso corporal en libras, por consiguiente, el programa determinara el IMC del usuario, de tal forma que el usuario vera que tal bien esta su índice o que tan mal está.
 
@@ -16,9 +17,3 @@ Material para poder Calcular tu IMC:
 
 *https://www.youtube.com/watch?v=ARPfLufAjXQ.   
 
-
-
-
-LINK DEL PROGRAMA:
-
-https://cmiranda14.github.io/Farmacias-PMG/
